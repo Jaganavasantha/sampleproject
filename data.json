@@ -1,0 +1,33 @@
+{
+	"details":{
+		"image":"penguins.jpg",
+		"name":"vasantha",
+		"email":"jaganavasantha2001@gmail.com",
+		"number":"7659276457",
+		"address":"visakhapatnam"
+	},
+	"career":{
+		"info":"to become a software engineer"
+	},
+	"education":[
+			{
+		"Institute":"view",		
+		"Degree":"b.tech",
+		"Percentage":"89%",
+		"Passoutyear":"2018-2019"
+	}
+				{
+		"Institute":"sri chaitanya",		
+		"Degree":"intermediate",
+		"Percentage":"89%",
+		"Passoutyear":"2018"
+	}
+				{
+		"Institute":"sri chaitanya",		
+		"Degree":"ssc",
+		"Percentage":"89%",
+		"Passoutyear":"2016"
+	}
+	]
+	
+}
